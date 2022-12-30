@@ -1,0 +1,5 @@
+'''EJEMPLO 2 RETORNO DE DATOS
+retorno de datos, se devuelven a la llamada de la funcion que recoge los datos'''
+
+
+def retorno_superficie (lado):
